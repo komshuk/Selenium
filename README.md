@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/06er6bhlpy8rrvrd?svg=true)](https://ci.appveyor.com/project/komshuk/Selenium)
+![Java CI with Gradle]([https://ci.appveyor.com/api/projects/status/06er6bhlpy8rrvrd?svg=true](https://github.com/komshuk/Selenium/blob/master/.github/workflows/gradle.yml))
 
 # Домашнее задание к занятию «2.1. Тестирование веб-интерфейсов»
 
