@@ -14,7 +14,7 @@ public class Request {
     private WebDriver driver;
 
     @BeforeAll
-    static void setupAll() {
+    static void setDriver() {
         WebDriverManager.chromedriver().setup();
     }
 
