@@ -1,4 +1,4 @@
-![https://github.com/komshuk/Selenium/.github/workflows/gradle.yml/badge.svg](https://myoctocat.com/assets/images/base-octocat.svg)(https://github.com/komshuk/Selenium/.github/workflows/gradle.yml/badge.svg)
+![https://github.com/komshuk/Selenium/.github/workflows/gradle.yml/badge.svg](https://myoctocat.com/assets/images/base-octocat.svg)
 
 # Домашнее задание к занятию «2.1. Тестирование веб-интерфейсов»
 
