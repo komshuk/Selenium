@@ -1,4 +1,4 @@
-![CI]([https://github.com/komshuk/Selenium/.github/workflows/gradle.yml/badge.svg)
+![Java CI with Gradle]([https://github.com/komshuk/Selenium/.github/workflows/gradle.yml/badge.svg?event=push)
 
 # Домашнее задание к занятию «2.1. Тестирование веб-интерфейсов»
 
