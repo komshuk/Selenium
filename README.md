@@ -1,4 +1,4 @@
-![https://github.com/komshuk/Selenium/](https://myoctocat.com/assets/images/base-octocat.svg)
+![https://github.com/komshuk/Selenium/](https://myoctocat.com/assets/images/base-octocat.svg)(https://github.com/komshuk/Selenium/)
 
 # Домашнее задание к занятию «2.1. Тестирование веб-интерфейсов»
 
