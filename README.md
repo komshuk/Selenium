@@ -1,4 +1,4 @@
-![CI]([https://github.com/komshuk/Selenium/blob/master/.github/workflows/gradle.yml/badge.svg)
+![CI]([https://github.com/komshuk/Selenium/.github/workflows/gradle.yml/badge.svg)
 
 # Домашнее задание к занятию «2.1. Тестирование веб-интерфейсов»
 
